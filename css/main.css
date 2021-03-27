@@ -160,7 +160,8 @@ li h3 + img {
 }
 
 li h3 {
-  background-color: #bebebe; opacity: 0.6;
+  /* background-color: #bebebe; opacity: 0.6; */
+  background-color: rgba(190, 190, 190, .5);
   margin-bottom: .5em;
   padding-bottom: 1rem;
   padding-top: 1rem;
@@ -183,7 +184,9 @@ li div {
 }
 
 div img {
-  width: 8%;
+  /* width: 8%; */
+  width: 2em;
+  height: 2em;
   padding-right: .5em;
 }
 
